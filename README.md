@@ -7,4 +7,4 @@ A Go library for working with `.xcstrings` files used for localization in iOS/ma
 To install the library, use the following command:
 
 ```bash
-go get github.com/yourusername/xcstrings
+go get github.com/Arrim/xcstrings
